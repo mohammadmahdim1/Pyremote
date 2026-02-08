@@ -8,10 +8,15 @@ I work in a small studio as a sound engineer, and sometimes I have to record my 
 
 # How It Works
 The functionality of this app is pretty straightforward:
+
 •	Run the server on your PC.
+
 •	Connect both the server and your desired client to the same network. 
+
 •	Go to the given IP address given by the server GUI. 
+
 •	Execute commands from the Web UI on the client. 
+
 
 As a reminder, there are alternatives to this app. The only difference between this and others is portability. 
 
